@@ -1,0 +1,10 @@
+export const SET_VOLUME = 'SET_VOLUME';
+export const SET_CURRENT_MUSIC = 'SET_CURRENT_MUSIC';
+export const SET_VISIBILITY_FILTER = 'SET_VISIBILITY_FILTER';
+export const SET_SONGS_LIST = 'SET_SONGS_LIST';
+export const SET_PROGRESS = 'SET_PROGRESS';
+export const SET_ACTIVE = 'SET_ACTIVE';
+export const SET_CURRENT_TIME = 'SET_CURRENT_TIME';
+export const SET_PLAYING = 'SET_PLAYING';
+
+
